@@ -1,2 +1,2 @@
-# Pybullet_tutorial
+# Pybullet Tutorial 
 Pybullet RL tutorial with OpenAI gym
